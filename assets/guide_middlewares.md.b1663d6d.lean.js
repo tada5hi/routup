@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as l}from"./app.13d6c113.js";const A=JSON.parse('{"title":"Middlewares","description":"","frontmatter":{},"headers":[],"relativePath":"guide/middlewares.md"}'),o={name:"guide/middlewares.md"},p=l("",4),e=[p];function t(r,c,D,y,F,i){return n(),a("div",null,e)}const C=s(o,[["render",t]]);export{A as __pageData,C as default};
