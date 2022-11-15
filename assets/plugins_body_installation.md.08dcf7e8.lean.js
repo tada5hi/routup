@@ -1,1 +1,0 @@
-import{_ as a,c as t,o as s,a as n}from"./app.06725bd6.js";const m=JSON.parse('{"title":"Installation","description":"","frontmatter":{},"headers":[],"relativePath":"plugins/body/installation.md"}'),e={name:"plugins/body/installation.md"},o=n("",3),l=[o];function i(c,p,d,r,_,h){return s(),t("div",null,l)}const f=a(e,[["render",i]]);export{m as __pageData,f as default};
