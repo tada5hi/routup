@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as p}from"./app.8cb888f0.js";const i=JSON.parse('{"title":"Usage","description":"","frontmatter":{},"headers":[],"relativePath":"plugins/query/usage.md"}'),l={name:"plugins/query/usage.md"},o=p("",2),e=[o];function t(r,c,y,D,F,A){return a(),n("div",null,e)}const u=s(l,[["render",t]]);export{i as __pageData,u as default};
