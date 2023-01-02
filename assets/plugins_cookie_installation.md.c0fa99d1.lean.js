@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,a as t}from"./app.1851652e.js";const u=JSON.parse('{"title":"Installation","description":"","frontmatter":{},"headers":[],"relativePath":"plugins/cookie/installation.md"}'),e={name:"plugins/cookie/installation.md"},o=t("",3),l=[o];function p(c,i,r,_,d,h){return n(),s("div",null,l)}const m=a(e,[["render",p]]);export{u as __pageData,m as default};

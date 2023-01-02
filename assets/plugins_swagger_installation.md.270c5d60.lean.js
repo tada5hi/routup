@@ -1,1 +1,0 @@
-import{_ as a,c as s,o as n,a as t}from"./app.7f7db346.js";const C=JSON.parse('{"title":"Installation","description":"","frontmatter":{},"headers":[],"relativePath":"plugins/swagger/installation.md"}'),e={name:"plugins/swagger/installation.md"},l=t("",3),o=[l];function p(c,i,r,_,d,h){return n(),s("div",null,o)}const u=a(e,[["render",p]]);export{C as __pageData,u as default};

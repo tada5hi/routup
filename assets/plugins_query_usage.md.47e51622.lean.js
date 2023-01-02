@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as l}from"./app.7f7db346.js";const i=JSON.parse('{"title":"Usage","description":"","frontmatter":{},"headers":[],"relativePath":"plugins/query/usage.md"}'),p={name:"plugins/query/usage.md"},o=l("",2),e=[o];function t(c,r,y,D,F,A){return a(),n("div",null,e)}const u=s(p,[["render",t]]);export{i as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.1851652e.js";const A=JSON.parse('{"title":"Handler","description":"","frontmatter":{},"headers":[],"relativePath":"guide/handler.md"}'),o={name:"guide/handler.md"},p=l("",6),e=[p];function t(r,c,y,D,C,i){return a(),n("div",null,e)}const d=s(o,[["render",t]]);export{A as __pageData,d as default};
