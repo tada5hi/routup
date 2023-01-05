@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as l}from"./app.1851652e.js";const i=JSON.parse('{"title":"Usage","description":"","frontmatter":{},"headers":[],"relativePath":"plugins/cookie/usage.md"}'),o={name:"plugins/cookie/usage.md"},p=l("",2),e=[p];function t(c,r,F,y,D,A){return a(),n("div",null,e)}const u=s(o,[["render",t]]);export{i as __pageData,u as default};
